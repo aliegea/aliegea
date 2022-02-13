@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [http://aliegea.com](http://aliegea.com)
 
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language and dialect in the world to communicate with everybody, dolphins included..**
+- ⚡ Fun fact **If I could have any superpower, it would be to speak any language and dialect in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
