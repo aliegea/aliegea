@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alicia Egea</h1>
-<h3 align="center">I'm a junior multilingual front end developer from Barcelona.</h3>
+<h3 align="center">I'm a multilingual front end developer from Barcelona.</h3>
 
-- 🌱 I’m currently learning **Redux, Jest, React, Angular**
+- 🌱 I’m currently learning **Node, Jasmine, React, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliegea](https://github.com/aliegea)
 
